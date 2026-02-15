@@ -347,7 +347,7 @@ You also been asked to modify the Company branding for the sign-in page.
 
 2. On the **Licenses** page, in the center navigation pane, under **Manage**, select **All products**.
 
-   > Take note of the current licenses available and assigned for **Enterprise Mobility + Security E5** and **Office 365 E5**.
+   > Take note of the current licenses available and assigned for **Enterprise Mobility + Security E5** + **Microsoft Defender for Business** and **Office 365 E5**.
 
 3. In the Microsoft Entra admin center, in the Navigation pane,under **Entra ID**, select **Custom branding**.
 
@@ -391,23 +391,25 @@ You also been asked to modify the Company branding for the sign-in page.
 
 21. Select **Assign Licenses**.
 
-22. On the **You assigned licenses to Contoso_Managers** pane, select the **X** in the upper-right corner to close it.
+22. Do the same for **Microsoft Defender for Business**
 
-23. In the upper-left corner of the **Enterprise Mobility + Security E5** page, select the **Back to licenses** link.
+23. On the **You assigned licenses to Contoso_Managers** pane, select the **X** in the upper-right corner to close it.
 
-24. In the **Subscriptions** list, select **Office 365 E5 (no Teams)**.
+24. In the upper-left corner of the **Enterprise Mobility + Security E5** page, select the **Back to licenses** link.
 
-25. Select the **Groups** tab, and then select **+ Assign licenses**.
+25. In the **Subscriptions** list, select **Office 365 E5 (no Teams)**.
 
-26. Navigate into the **Enter a group name** textbox, and select the **Contoso_Managers** group.
+26. Select the **Groups** tab, and then select **+ Assign licenses**.
 
-27. Select **Assign Licenses**.
+27. Navigate into the **Enter a group name** textbox, and select the **Contoso_Managers** group.
 
-28. On the **You assigned licenses to Contoso_Managers** pane, select the **X** in the upper-right corner to close it.
+28. Select **Assign Licenses**.
 
-29. In the Microsoft 365 admin center, in the Navigation pane, select **Billing** > **Licenses**.
+29. On the **You assigned licenses to Contoso_Managers** pane, select the **X** in the upper-right corner to close it.
 
-30. In the **Subscriptions** list, select **Office 365 E5 (no Teams)**.
+30. In the Microsoft 365 admin center, in the Navigation pane, select **Billing** > **Licenses**.
+
+31. In the **Subscriptions** list, select **Office 365 E5 (no Teams)**.
 
    > Take note of the users that are assigned the Office 365 E5 license. Edmund and Miranda both receive their license assignment from their membership in the Contoso_Managers group. You can select the **Groups** tab see if the licenses assigned correctly. It may take 3-5 minutes for the licenses to reprocess.
 
