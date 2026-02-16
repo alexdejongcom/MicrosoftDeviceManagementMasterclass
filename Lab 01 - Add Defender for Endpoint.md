@@ -27,10 +27,12 @@ This lab walks you through enabling a **Microsoft Defender for Business trial li
 ## Step 1: Navigate to Product Trials
 
 1. In the Microsoft 365 Admin Center, select **Billing** from the left navigation.
-2. Select **Purchase services**.
-3. In the search bar, type **Defender for Business**.
-4. Locate **Microsoft Defender for Business** in the list.
-5. Select **Try free** or **Start trial** (if available).
+2. Select **Marketplace**.
+3. Click **All products**
+4. Scroll downn a little bit.
+5. In the search bar, type **Defender for Business**.
+6. Locate **Microsoft Defender for Business** in the list.
+7. Select **Try free** or **Start trial** (if available).
 
 > Note: In some tenants, the trial can also be started from the Microsoft Defender portal.
 
