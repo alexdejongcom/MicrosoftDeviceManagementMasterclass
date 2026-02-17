@@ -19,7 +19,7 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
 
 ---
 
-## Step 1: Go to Remediations
+## Step 1: Enable Windows Data Collection and Go to Remediations
 
 1. Sign in to the Intune admin center:  
    https://intune.microsoft.com
