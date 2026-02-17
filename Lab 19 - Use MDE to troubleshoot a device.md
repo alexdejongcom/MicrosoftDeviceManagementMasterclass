@@ -1,19 +1,19 @@
-# Lab: Isolate LON-CL1, Test Isolation, Use Live Response, and Remove Isolation in Microsoft Defender for Endpoint
+# Lab: Isolate SEA-WS1, Test Isolation, Use Live Response, and Remove Isolation in Microsoft Defender for Endpoint
 
 This lab walks you through using **Microsoft Defender for Endpoint** to:
 
-1. Isolate the device **LON-CL1** from the network  
+1. Isolate the device **SEA-WS1** from the network  
 2. Test and verify the isolation  
 3. Start a **Live response** session and perform four tasks to demonstrate its capabilities  
-4. Remove **LON-CL1** from isolation  
+4. Remove **SEA-WS1** from isolation  
 
 ---
 
 ## Prerequisites
 
 - You must have access to the Microsoft Defender portal with permissions to manage devices (for example, Security Administrator or Global Administrator).
-- The device **LON-CL1** must be onboarded to Microsoft Defender for Endpoint.
-- The device **LON-CL1** must be online.
+- The device **SEA-WS1** must be onboarded to Microsoft Defender for Endpoint.
+- The device **SEA-WS1** must be online.
 
 ---
 
@@ -25,19 +25,19 @@ This lab walks you through using **Microsoft Defender for Endpoint** to:
 
 ---
 
-## Step 2: Locate the LON-CL1 Device
+## Step 2: Locate the SEA-WS1 Device
 
 1. In the left navigation, select **Assets**.
 2. Select **Devices**.
 3. Search for:  
-   `LON-CL1`
-4. Select the device **LON-CL1** to open the device details page.
+   `SEA-WS1`
+4. Select the device **SEA-WS1** to open the device details page.
 
 ---
 
-## Step 3: Isolate LON-CL1 from the Network
+## Step 3: Isolate SEA-WS1 from the Network
 
-1. On the **LON-CL1** device page, select **Take action**.
+1. On the **SEA-WS1** device page, select **Take action**.
 2. Select **Isolate device**.
 3. In the isolation pane:
    - Choose **Full isolation** (if prompted).
@@ -50,8 +50,8 @@ This lab walks you through using **Microsoft Defender for Endpoint** to:
 
 ## Step 4: Test and Verify Device Isolation
 
-1. On the **LON-CL1** device page, verify that the **Isolation status** shows the device is isolated.
-2. From the **LON-CL1** device (if you have access):
+1. On the **SEA-WS1** device page, verify that the **Isolation status** shows the device is isolated.
+2. From the **SEA-WS1** device (if you have access):
    - Attempt to browse to an external website.
    - Attempt to access a network resource.
 3. Confirm that network access is blocked, except for communication with Microsoft Defender for Endpoint services.
@@ -62,7 +62,7 @@ This lab walks you through using **Microsoft Defender for Endpoint** to:
 
 ## Step 5: Start a Live Response Session
 
-1. In the Microsoft Defender portal, return to the **LON-CL1** device page.
+1. In the Microsoft Defender portal, return to the **SEA-WS1** device page.
 2. Select **Take action**.
 3. Select **Initiate live response session**.
 4. Wait for the live response session to connect and open the command interface.
@@ -117,9 +117,9 @@ In the live response session, perform the following four tasks to demonstrate fu
 
 ---
 
-## Step 8: Remove LON-CL1 from Isolation
+## Step 8: Remove SEA-WS1 from Isolation
 
-1. On the **LON-CL1** device page, select **Take action**.
+1. On the **SEA-WS1** device page, select **Take action**.
 2. Select **Release from isolation**.
 3. Enter a comment such as: `Ending investigation lab`.
 4. Select **Confirm**.
@@ -130,7 +130,7 @@ In the live response session, perform the following four tasks to demonstrate fu
 
 ## Step 9: Verify Device Is No Longer Isolated
 
-1. Confirm that the **Isolation status** for **LON-CL1** shows the device is no longer isolated.
+1. Confirm that the **Isolation status** for **SEA-WS1** shows the device is no longer isolated.
 2. From the device, test access to:
    - An external website
    - A network resource
@@ -140,15 +140,15 @@ In the live response session, perform the following four tasks to demonstrate fu
 
 ## Validation Checklist
 
-- [ ] LON-CL1 was successfully isolated from the network.
+- [ ] SEA-WS1 was successfully isolated from the network.
 - [ ] Network access was blocked while the device was isolated.
 - [ ] A Live response session was started successfully.
 - [ ] At least four Live response tasks were executed.
-- [ ] LON-CL1 was successfully released from isolation.
+- [ ] SEA-WS1 was successfully released from isolation.
 - [ ] Normal network connectivity was restored.
 
 ---
 
 ## Result
 
-You used Microsoft Defender for Endpoint to isolate **LON-CL1**, verified the isolation, performed an investigation using **Live response**, and safely returned the device to normal network operation.
+You used Microsoft Defender for Endpoint to isolate **SEA-WS1**, verified the isolation, performed an investigation using **Live response**, and safely returned the device to normal network operation.
