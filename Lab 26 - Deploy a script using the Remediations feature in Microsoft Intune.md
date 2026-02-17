@@ -23,7 +23,10 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
 
 1. Sign in to the Intune admin center:  
    https://intune.microsoft.com
-2. Navigate to:  
+2. Navigate to: **Tenant administration > Connectors and tokens > Windows data**
+3. Enable **Enable features that require Windows diagnostic data in processor configuration**
+4. 
+5. Navigate to:  
    **Devices > Scripts and remediations > Remediations**
 
 ---
@@ -42,7 +45,7 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
 
 1. On the **Scripts** page:
    - Upload your **Detection script file** (`Detect-*.ps1`)
-   - Upload your **Remediation script file** (`Remediate-*.ps1`)
+   - Upload your **Remediation script file** (`Remediate-*.ps1`)   **NOT NEEDED FOR THIS LAB**
 2. Select **Next**.
 
 > Remediations require both a detection and remediation script. Detection runs first; remediation runs only when necessary. :contentReference[oaicite:2]{index=2}
