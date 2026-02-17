@@ -2,9 +2,8 @@
 
 This lab walks you through creating a **Conditional Access** policy in **Microsoft Entra ID** that allows access to **Office 365 resources** only from **Intune-compliant devices**. The policy will apply only to the users:
 
-- Edmund  
-- Cody  
-- Miranda  
+- Aaron
+- Allan 
 
 ---
 
@@ -37,7 +36,7 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 ## Step 3: Configure the Basics
 
 1. In the **Name** field, enter:  
-   `Require compliant devices for Office 365 (Edmund, Cody, Miranda)`
+   `Require compliant devices for Office 365 (Aaron, Allan)`
 
 ---
 
@@ -48,9 +47,8 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 3. Select **Users**.
 4. Click **Select users**.
 5. Search for and select:
-   - Edmund  
-   - Cody  
-   - Miranda  
+   - Aaron
+   - Allan  
 6. Select **Select**.
 
 > Do not include other users. This policy should apply only to these three users.
@@ -85,7 +83,7 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 
 ## Step 8: Test the Policy
 
-1. Sign in as one of the affected users (Edmund, Cody, or Miranda) from:
+1. Sign in as one of the affected users (Aaron, Allan) from:
    - A compliant device (should succeed), and
    - A non-compliant or unmanaged device (should be blocked).
 2. Verify the sign-in result in:
