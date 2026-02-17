@@ -1,6 +1,6 @@
-# Lab: Create an Entra ID Security Group Containing the LON-CL1 Device
+# Lab: Create an Entra ID Security Group Containing the SEA-WS1 Device
 
-This lab walks you through creating a **security group** in Microsoft Entra ID and adding the device **LON-CL1** as a member.
+This lab walks you through creating a **security group** in Microsoft Entra ID and adding the device **SEA-WS1** as a member.
 
 ---
 
@@ -43,15 +43,15 @@ This lab walks you through creating a **security group** in Microsoft Entra ID a
 ## Step 4: Add the LON-CL1 Device to the Group
 
 1. In the **Add members** pane, change the **Member type** filter to **Devices** (if available).
-2. Search for: `LON-CL1`
-3. Select the device **LON-CL1** from the results.
+2. Search for: `SEA-WS1`
+3. Select the device **SEA-WS1** from the results.
 4. Select **Select** to add it to the group.
 
 ---
 
 ## Step 5: Create the Group
 
-1. Verify that **LON-CL1** is listed as a selected member.
+1. Verify that **SEA-WS1** is listed as a selected member.
 2. Select **Create** to create the group.
 
 ---
@@ -60,7 +60,7 @@ This lab walks you through creating a **security group** in Microsoft Entra ID a
 
 1. Open the newly created group.
 2. Go to **Members**.
-3. Confirm that the device **LON-CL1** is listed.
+3. Confirm that the device **SEA-WS1** is listed.
 
 ---
 
