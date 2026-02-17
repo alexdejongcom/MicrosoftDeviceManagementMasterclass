@@ -75,4 +75,4 @@ This lab walks you through creating a **security group** in Microsoft Entra ID a
 
 ## Result
 
-You now have a security group in Microsoft Entra ID that contains the **LON-CL1** device and can be used for targeting policies, configu
+You now have a security group in Microsoft Entra ID that contains the **SEA-WS1** device that can be used for targeting policies.
