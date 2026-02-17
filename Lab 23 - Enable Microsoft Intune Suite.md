@@ -48,22 +48,22 @@ This lab walks you through enabling the **Microsoft Intune Suite trial** using t
 ## Step 4: Assign the License to Users
 
 1. In the Microsoft 365 admin center, go to **Users > Active users**.
-2. Select **Edmund**.
+2. Select **Aaron**.
 3. Select **Manage product licenses**.
 4. Enable the **Microsoft Intune Suite** license.
 5. Select **Save changes**.
 6. Repeat the same steps for:
-   - **Miranda**
-   - **Cody**
+   - **Allan**
+   - **MOD Admin**
 
 ---
 
 ## Step 5: Verify License Assignment
 
 1. Still in **Users > Active users**, select each user:
-   - Edmund  
-   - Miranda  
-   - Cody  
+   - Aaron
+   - Allan
+   - MOD Admin 
 2. Confirm that **Microsoft Intune Suite** is listed as an assigned license for each user.
 
 ---
@@ -80,4 +80,4 @@ This lab walks you through enabling the **Microsoft Intune Suite trial** using t
 
 ## Result
 
-The **Microsoft Intune Suite trial** is enabled in your tenant, and the users **Edmund**, **Miranda**, and **Cody** are licensed and ready to use Intune Suite features.
+The **Microsoft Intune Suite trial** is enabled in your tenant, and the users **Aaron**, **Allan**, and **MOD Admin** are licensed and ready to use Intune Suite features.
