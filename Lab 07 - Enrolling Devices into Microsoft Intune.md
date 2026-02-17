@@ -44,6 +44,39 @@ You have assigned Aaron Nicholls appropriate licenses and will now test the proc
 
 14. Close the **Settings** window.
 
+**Now repeat for SEA-WS2 and connect AllanD**
+
+1. Sign in to **SEA-WS2** as **Admin** with the password of **Pa55w.rd**.
+
+2. Select **Start** and then select **Settings**.
+
+3. In **Settings**, select **Accounts**.
+
+4. On the Accounts page, select **Access work or school**.
+
+5. In the **Access work or school** page, select **Connect**.
+
+6. In the **Microsoft account** window, select **Join this device to Microsoft Entra ID**.
+
+7. On the **Sign in** page, type **`AllanD@yourtenant.onmicrosoft.com`** and then select **Next**.
+
+8. On the **Enter password** page, enter **Pa55w.rd** and then select **Sign in**.
+
+  > Note: If the password for Allan does not work, please reset it in EntraID
+
+10. On the **Make sure this is your organization** dialog box, select **Join**.
+
+11. On the **You're all set!** page, read the information and then select **Done**.
+
+12. In the **Access work or school** section, verify that **Connected to Contoso's Azure AD** displays.
+
+13. Select **Connected to Contoso's Azure AD** and then select **Info**.
+
+14. Take note of the information regarding the areas managed by Contoso, scroll down, and then select **Sync**. This will force a Device sync with Intune.
+
+15. Close the **Settings** window.
+
+
 ### Task 2: Validate device enrollment into Entra ID and Intune
 
 1. On the **SEA-WS1** taskbar, select **Start**, type **cert**, and select **Manage computer certificates**. At the **User Account Control**, select **Yes**.
