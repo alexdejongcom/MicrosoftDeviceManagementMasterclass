@@ -49,7 +49,7 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
    - Upload your **Remediation script file** (`Remediate-*.ps1`)   **NOT NEEDED FOR THIS LAB**
 2. Select **Next**.
 
-> Remediations require both a detection and remediation script. Detection runs first; remediation runs only when necessary. :contentReference[oaicite:2]{index=2}
+> Remediations require both a detection and remediation script. Detection runs first; remediation runs only when necessary.
 
 ---
 
@@ -99,7 +99,7 @@ Select **Next**.
 
 ## Optional: Manually Trigger the Remediation for a Single Device
 
-You can manually run a remediation against a specific device using the **Run remediation** device action. :contentReference[oaicite:3]{index=3}
+You can manually run a remediation against a specific device using the **Run remediation** device action.
 
 1. Go to: **Devices > All devices**
 2. Select a device.
