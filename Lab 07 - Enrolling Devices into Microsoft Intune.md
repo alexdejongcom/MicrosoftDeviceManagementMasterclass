@@ -12,7 +12,7 @@ To following lab(s) must be completed before this lab:
 
 ### Scenario
 
-You have assigned Aaron Nicholls appropriate licenses and will now test the process of joining a Windows device to Entra ID and have it automatically enroll in Microsoft Intune.
+You have assigned Aaron Nicholls and Allan Deyoung appropriate licenses and will now test the process of joining two Windows devices to Entra ID and have it automatically enroll in Microsoft Intune.
 
 ### Task 1: Automatically enroll a Windows device to Microsoft Intune
 
