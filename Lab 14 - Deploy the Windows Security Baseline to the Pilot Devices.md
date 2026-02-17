@@ -26,7 +26,7 @@ This lab walks you through using **Microsoft Intune** to deploy the **Windows Se
 1. In the left navigation pane, select **Endpoint security**.
 2. Select **Security baselines**.
 3. In the list of available baselines, select **Windows** (for example, *Windows Security Baseline for Windows 10 and later*).
-4. Select **Create profile**.
+4. Select **Create policy**.
 
 ---
 
