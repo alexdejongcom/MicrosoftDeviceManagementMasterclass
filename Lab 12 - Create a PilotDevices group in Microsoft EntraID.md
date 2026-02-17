@@ -68,7 +68,7 @@ This lab walks you through creating a **security group** in Microsoft Entra ID a
 
 - [ ] A security group named **Pilot-Devices** exists in Entra ID.
 - [ ] The group membership type is **Assigned**.
-- [ ] The device **LON-CL1** is a member of the group.
+- [ ] The device **SEA-WS1** is a member of the group.
 - [ ] The group can be selected in Intune or Conditional Access assignments.
 
 ---
