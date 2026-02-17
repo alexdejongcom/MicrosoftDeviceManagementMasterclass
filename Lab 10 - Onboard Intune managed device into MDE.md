@@ -85,7 +85,7 @@ This lab walks you through creating an **Endpoint Security** policy in Microsoft
 4. After devices sync with Intune, verify onboarding status in the Microsoft Defender portal:  
    https://security.microsoft.com
 
-5. another way to check if the MDE Sensor is active on you clients is to run the following powershell command on those clients: Get-Service *sense*
+5. another way to check if the MDE Sensor is active on you clients is to run the following powershell command on those clients: "Get-Service *sense*"
 
 ---
 
