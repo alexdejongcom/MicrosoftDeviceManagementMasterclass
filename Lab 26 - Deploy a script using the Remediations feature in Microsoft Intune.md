@@ -15,7 +15,7 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
 
 **For this lab, download the script:** https://msftuniversity.blob.core.windows.net/intunelabs/createRandomfile.ps1
 
-> Tip: Upload scripts (don’t paste them into the browser editor) to avoid encoding issues. :contentReference[oaicite:1]{index=1}
+> Tip: remember where you are downloading this file.
 
 ---
 
