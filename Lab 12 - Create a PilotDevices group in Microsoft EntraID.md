@@ -7,7 +7,7 @@ This lab walks you through creating a **security group** in Microsoft Entra ID a
 ## Prerequisites
 
 - You must be a **Global Administrator**, **Intune Administrator**, or **Groups Administrator** in Microsoft Entra ID.
-- The device **LON-CL1** must already exist in Entra ID (for example, enrolled via Intune or Azure AD joined).
+- The device **SEA-WS1** must already exist in Entra ID (for example, enrolled via Intune or Azure AD joined).
 
 ---
 
