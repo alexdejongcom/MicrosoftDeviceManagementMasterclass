@@ -25,8 +25,9 @@ In this lab, you will deploy a PowerShell script to **All devices** using **Reme
    https://intune.microsoft.com
 2. Navigate to: **Tenant administration > Connectors and tokens > Windows data**
 3. Enable **Enable features that require Windows diagnostic data in processor configuration**
-4. 
-5. Navigate to:  
+4. Open **Windows license verification**
+5. Enable **I confirm that my tenant owns one of these licenses**
+6. Navigate to:  
    **Devices > Scripts and remediations > Remediations**
 
 ---
