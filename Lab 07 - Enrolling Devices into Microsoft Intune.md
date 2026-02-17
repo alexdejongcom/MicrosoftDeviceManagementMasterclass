@@ -62,7 +62,7 @@ You have assigned Aaron Nicholls and Allan Deyoung appropriate licenses and will
 
 8. On the **Enter password** page, enter **Pa55w.rd** and then select **Sign in**.
 
-  > Note: If the password for Allan does not work, please reset it in EntraID
+  > Note: If the password for Allan does not work, use the **User Password** in the resources tab of you lab environment
 
 10. On the **Make sure this is your organization** dialog box, select **Join**.
 
