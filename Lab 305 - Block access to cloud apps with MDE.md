@@ -76,13 +76,13 @@ This lab walks you through configuring web access controls using Microsoft secur
 1. With the filtered results still applied, select **Create policy from search**.
 2. Configure the policy:
    - **Policy name**: `Block low-risk-score Generative AI apps`
-   - **Policy type**: Access policy
-   - **Action**: Block
+   - **Policy template**: no template
+   - **Governance Actions**: Tag app as unsanctioned
    - Ensure the filter conditions include:
      - Category = Generative AI
      - Risk score < 6
 
-3. Save the policy.
+3. create the policy.
 
 ---
 
