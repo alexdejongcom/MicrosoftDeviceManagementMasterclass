@@ -57,16 +57,15 @@ This lab walks you through configuring web access controls using Microsoft secur
 ## Step 4: Open Defender for Cloud Apps
 
 1. In the Microsoft Defender portal, go to **Cloud apps**.
-2. Select **Cloud Discovery**.
-3. Select **Discovered apps**.
+2. Select **Cloud App Catalog**.
 
 ---
 
 ## Step 5: Search for Generative AI Apps with Low Risk Score
 
-1. In **Discovered apps**, use the filters:
+1. In **Cloud App Catalog**, use the filters:
    - **Category**: Generative AI
-   - **Risk score**: Less than 6
+   - **Risk score**: 0 - 6
 
 2. Review the list of applications that match the filter.
 
