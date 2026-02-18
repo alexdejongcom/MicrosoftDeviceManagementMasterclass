@@ -2,9 +2,9 @@
 
 This lab walks you through enabling the **Microsoft Intune Suite trial** using the **Microsoft 365 admin center** and assigning the license to the following users:
 
-- Edmund  
-- Miranda  
-- Cody  
+- Aaron
+- Allan
+- MOD Admin 
 
 ---
 
