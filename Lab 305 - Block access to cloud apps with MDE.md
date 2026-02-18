@@ -88,9 +88,8 @@ This lab walks you through configuring web access controls using Microsoft secur
 
 ## Step 7: Verify the Cloud App Policy
 
-1. Go to **Cloud apps > Policies**.
-2. Confirm the new policy appears and is enabled.
-3. Verify that access to matching Generative AI apps is now blocked for users.
+1. Go to **Defender for Endpoint Settings**.
+2. Confirm the Indicators list has a lot of entries now.
 
 ---
 
