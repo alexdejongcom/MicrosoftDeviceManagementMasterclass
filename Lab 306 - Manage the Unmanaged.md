@@ -156,7 +156,7 @@ This policy allows access to Office 365 only from mobile apps that have an App P
 - **Name**: `Only allow protected client apps (iOS/Android)`
 
 - **Users**:  
-  - Select the group **Office Users**
+  - Select the users **Aaron** and **Allan**
 
 - **Target resources**:  
   - Select **Office 365**
