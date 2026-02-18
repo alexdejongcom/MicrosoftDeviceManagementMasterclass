@@ -28,7 +28,7 @@ This policy blocks non-browser client apps from accessing Office 365 on unmanage
 - **Name**: `Block client apps from unmanaged devices (Win/Mac/Lnx)`
 
 - **Users**:  
-  - Select the group **Office Users**
+  - Select the users **Aaron** and **Allan**
 
 - **Target resources**:  
   - Select **Office 365**
@@ -77,7 +77,7 @@ This policy allows browser-based access to Office 365 from unmanaged devices but
 - **Name**: `Block downloads from unmanaged devices (Win/Mac/Lnx)`
 
 - **Users**:  
-  - Select the group **Office Users**
+  - Select the users **Aaron** and **Allan**
 
 - **Target resources**:  
   - Select **Office 365**
@@ -119,7 +119,7 @@ This policy allows browser-based access to Office 365 from unmanaged devices but
 2. Open **Microsoft Edge**.
 3. Go to:  
    https://microsoft365.com  
-4. Sign in as **Cody**.
+4. Sign in as **Aaron**.
 5. Open the following in separate tabs:
    - SharePoint
    - Outlook
@@ -132,6 +132,8 @@ This policy allows browser-based access to Office 365 from unmanaged devices but
 
 1. Repeat all the steps above from the **Sea-WS1** device.
 2. Observe the differences in behavior based on device state and policy enforcement.
+
+ > Note: If you are not allowed to sign-in, you may need to remove the Conditional Access policy from lab **302**
 
 ---
 
