@@ -14,9 +14,9 @@ You will verify licensing, explore each feature in the Intune admin center, and 
 
 - The **Microsoft Intune Suite** license is enabled in the tenant.
 - The following users are licensed for Intune Suite:
-  - Edmund
-  - Miranda
-  - Cody
+  - Aaron
+  - Allan
+  - MOD Admin
 - You have access to the **Microsoft Intune admin center**: https://intune.microsoft.com
 - You are signed in with an account that has Intune administrative permissions.
 - Devices are enrolled in Intune (Windows 10/11 recommended for EPM and Remote Help demos).
