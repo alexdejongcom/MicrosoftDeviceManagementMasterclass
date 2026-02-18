@@ -94,7 +94,7 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 ## Validation Checklist
 
 - [ ] A Conditional Access policy exists with the correct name.
-- [ ] The policy applies only to Edmund, Cody, and Miranda.
+- [ ] The policy applies only to Aaron and Allan.
 - [ ] The policy targets Office 365 (Microsoft 365) resources.
 - [ ] The policy requires the device to be marked as compliant.
 - [ ] Compliant devices can access Office 365.
