@@ -26,8 +26,8 @@ This lab walks you through enabling the **Microsoft Intune Suite trial** using t
 
 ## Step 2: Start the Microsoft Intune Suite Trial
 
-1. In the left navigation pane, go to **Billing**.
-2. Select **Purchase services**.
+1. In the left navigation pane, go to **Marketplace**.
+2. Select **All Products**.
 3. In the search box, type: `Intune Suite`.
 4. Locate **Microsoft Intune Suite** in the list of products.
 5. Select **Start free trial** (or **Try free**, depending on your tenant UI).
