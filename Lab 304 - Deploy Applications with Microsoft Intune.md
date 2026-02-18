@@ -53,6 +53,8 @@ This lab walks you through using **Microsoft Intune** to:
    - Ensure the following are **not selected**:
      - Access
      - Publisher
+  - Use the Open XML format
+  - Use Monthly Enterprise for update channel
 
 3. Configure any additional settings as required for your environment.
 
