@@ -143,7 +143,7 @@ You have assigned Aaron Nicholls and Allan Deyoung appropriate licenses and will
 
 2. Select **Other user**, and sign in as **`AllanD@yourtenant.onmicrosoft.com`** with the password **Pa55w.rd**.
 
-  > Note: If the password does not work, please use the password that you have reset in the previous task
+  > Note: If the password does not work, please use the **User Password** in the resources tab in your lab environment.
 
 2. At the **Use Windows Hello with your account** page, select **OK**.
 
