@@ -104,4 +104,4 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 
 ## Result
 
-Only **Intune-compliant devices** used by **Edmund**, **Cody**, and **Miranda** can access **Office 365 resources**. All other device states are blocked by Conditional Access.
+Only **Intune-compliant devices** used by **Aaron** and **Allan** can access **Office 365 resources**. All other device states are blocked by Conditional Access.
