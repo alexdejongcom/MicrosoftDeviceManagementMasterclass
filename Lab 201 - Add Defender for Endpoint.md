@@ -50,7 +50,7 @@ This lab walks you through enabling a **Microsoft Defender for Business trial li
 ## Step 3: Assign Defender for Business Licenses to Users
 
 1. In the Microsoft 365 Admin Center, go to **Users > Active users**.
-2. Select one or more users.
+2. Select one or more users. (Include Aaron, Allan and Mod Admin)
 3. In the user details pane, select **Manage product licenses**.
 4. Enable the **Microsoft Defender for Business** license (or a plan that includes it, such as Microsoft 365 Business Premium).
 5. Ensure the Defender services are enabled.
