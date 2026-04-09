@@ -50,7 +50,7 @@ This lab walks you through:
 
 3. On the **Configuration settings** page:
 
-   * Leave the default settings enabled (or review the available health signals such as startup performance, crashes, and reliability metrics).
+   * Change the Health Monitoring to Enabled and the Scope to Endpoint Analytics.
 
 4. Select **Next**.
 
