@@ -30,9 +30,10 @@ This lab walks you through:
 ## Step 2: Navigate to Health Monitoring
 
 1. In the left navigation pane, select **Devices**.
-2. Select **Monitor** (or **Configuration** depending on your portal layout).
-3. Select **Health monitoring**.
-4. Select **Create policy**.
+2. Select **Manage Devices** and **Configuration**.
+3. Create a new policy for **Windows**
+4. Select **Windows Health monitoring** as the template.
+5. Select **Create policy**.
 
 > If you don’t see **Health monitoring** directly, look under **Devices > Windows > Health monitoring** or use the search bar at the top of the portal.
 
