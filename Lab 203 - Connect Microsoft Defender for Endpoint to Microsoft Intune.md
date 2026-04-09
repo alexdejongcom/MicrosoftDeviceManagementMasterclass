@@ -23,7 +23,7 @@ This lab walks you through verifying that the **Microsoft Intune connection** is
 ## Step 2: Verify the Microsoft Intune Connection
 
 1. In the Microsoft Defender portal, go to:  
-   **Settings > Endpoints > Advanced features**
+   **System > Settings > Endpoints > Advanced features**
 
 2. Scroll through the list of features until you find **Microsoft Intune connection**.
 
