@@ -98,7 +98,7 @@ This policy allows browser-based access to Office 365 from unmanaged devices but
       - OR Device Ownership equals **Company**
 
 - **Access controls (Grant)**:  
-  - Select **Block access**
+  - Select **Grant access**
 
 - **Session**:  
   - Enable **Use Conditional Access App Control**  
