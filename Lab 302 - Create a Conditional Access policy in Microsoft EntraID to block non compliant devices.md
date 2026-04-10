@@ -11,7 +11,7 @@ This lab walks you through creating a **Conditional Access** policy in **Microso
 
 - You must be a **Global Administrator** or **Conditional Access Administrator** in Microsoft Entra ID.
 - Microsoft Intune compliance policies must already exist and be evaluating devices.
-- The users **Edmund**, **Cody**, and **Miranda** must exist in Entra ID.
+- The users **Aaron**, **Allan** must exist in Entra ID.
 - You must have access to the Microsoft Entra admin center.
 
 ---
