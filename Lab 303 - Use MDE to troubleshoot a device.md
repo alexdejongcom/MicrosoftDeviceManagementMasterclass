@@ -104,7 +104,7 @@ In the live response session, perform the following four tasks to demonstrate fu
    - `whoami`
    or  
    - `ipconfig`
-2. Review the output to confirm commands execute successfully on the device.
+2. Review the output to confirm commands execute NOT successfully on the device.
 
 > These tasks demonstrate visibility, file collection, and command execution through Live Response.
 
