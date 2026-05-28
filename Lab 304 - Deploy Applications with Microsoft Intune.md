@@ -1,4 +1,4 @@
-# Lab: Deploy Microsoft 365 Apps, Company Portal, and PowerToys Using Microsoft Intune
+# Lab: Deploy Microsoft 365 Apps, Company Portal, and Microsoft 365 Copilot app Using Microsoft Intune
 
 This lab walks you through using **Microsoft Intune** to:
 
@@ -106,9 +106,9 @@ This lab walks you through using **Microsoft Intune** to:
 
 ---
 
-# Part 3: Make Microsoft PowerToys Available via Company Portal
+# Part 3: Make Microsoft 365 Copilot app Available via Company Portal
 
-## Step 8: Add PowerToys from Microsoft Store (new)
+## Step 8: Add Microsoft365 copilot app from Microsoft Store (new)
 
 1. Go to **Apps > All apps**.
 2. Select **Add**.
@@ -117,16 +117,16 @@ This lab walks you through using **Microsoft Intune** to:
 
 ---
 
-## Step 9: Search and Select PowerToys
+## Step 9: Search and Select Microsoft 365 Copilot
 
 1. Select **Search the Microsoft Store app (new)**.
 2. Search for: `Microsoft PowerToys`
-3. Select **Microsoft PowerToys** from the results.
+3. Select **Microsoft 365 Copilot** from the results.
 4. Select **Select**.
 
 ---
 
-## Step 10: Configure and Assign PowerToys as Available
+## Step 10: Configure and Assign Microsoft 365 Copilot as Available
 
 1. On the **App information** page, review the details and select **Next**.
 2. On the **Assignments** page:
